@@ -11,5 +11,7 @@ if len(str1)==len(str2):
         i+=1
     if f:
         print("stings are anagram")
+    else:
+        print("string is not anagram")
 else:
     print("string of different lenght")
